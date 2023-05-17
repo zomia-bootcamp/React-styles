@@ -39,7 +39,7 @@ const MyComponent = () => {
 
 ### Group Activity: 
 
-1. Take a look at the `Game.js` file. The game is already functional, but it needs some styling.
+1. Take a look at the [`Game.js`](./src/Game.js) file. The game is already functional, but it needs some styling.
 2. Start by practicing your understanding of inline styling.
 3. Find the `<h1>` element responsible for the game's title, "Rock Paper Scissors".
 4. Apply an inline style to change the font size property to 48 and set the margin top property to 0.
@@ -75,7 +75,7 @@ const MyComponent = () => {
 3. Set the `choiceStyles` object with properties: `display` as `flex`, `align-items` as `center`, and `margin-bottom` as 40 pixels.
 4. Define another object variable named `emojiStyles` with properties: `font-size` as 64 pixels and `margin-right` as 20 pixels.
 5. Define an object variable named `nameStyles` with properties: `margin` as 0 pixels, `font-size` as 24 pixels, and `color` as #ffff.
-6. Finally, define an object variable named `resultStyle` with properties: `margin-top` as 40 pixels, `font-size` as 48 pixels, and `color` as #ffff.
+6. Finally, define an object variable named `resultStyle` with properties: `margin-top` as 40 pixels, `font-size` as 48 pixels, and `color` as `#ffff`.
 
 After defining the styling object, it's time to apply them:
 

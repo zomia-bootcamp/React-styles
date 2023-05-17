@@ -1,6 +1,9 @@
 # Beginner's Guide to React Styling
 
 
+React is a popular JavaScript library used for building user interfaces, and styling plays a crucial role in creating visually appealing web applications. In this article, we will explore the basics of styling in React, including inline and object styling, style syntax, and using multiple style sheets.
+
+
 ## Objectives
 
 1. Understand the basics of React styling and its importance in creating visually appealing user interfaces.
@@ -15,7 +18,6 @@
 * Create a new branch called `training` for your work.
 * Install the necessary dependencies using `npm install`.
 
-React is a popular JavaScript library used for building user interfaces, and styling plays a crucial role in creating visually appealing web applications. In this article, we will explore the basics of styling in React, including inline and object styling, style syntax, and using multiple style sheets.
 
 ## Inline and Object Styling
 
